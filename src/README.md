@@ -59,7 +59,7 @@ The project is structured into modular packages to ensure maintainability and ad
 │ ├── LibraryService.java <- Core Service Interface (DIP) 
 │ └── LibraryServiceImpl.java <- Service Implementation 
 └── docs/ 
-	└── Library_LMS_Class_Diagram.jpg <- UML Class Diagram (Required Deliverable)	
+	└── Class_Diagram.jpg <- UML Class Diagram (Required Deliverable)	
 ```
 	
 ## 📐 UML Class Diagram
