@@ -79,8 +79,8 @@ The following diagram illustrates the relationships and structure of the core cl
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/library-management-system.git](https://github.com/YOUR_USERNAME/library-management-system.git)
-    cd library-management-system
+    git clone https://github.com/rishekundey/LibraryManagementSystem.git
+    cd LibraryManagementSystem
     ```
 2.  **Compile the Java files:**
     ```bash
